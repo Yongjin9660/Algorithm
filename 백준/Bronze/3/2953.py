@@ -1,3 +1,6 @@
+# 나는 요리사다
+# https://www.acmicpc.net/problem/2953
+
 win = -1
 score = -1
 
