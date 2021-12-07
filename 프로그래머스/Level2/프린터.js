@@ -1,4 +1,4 @@
-# https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript
+// https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript
 
 const solution = (priorities, location) => {
   let arr = priorities.map((p, idx) => {
