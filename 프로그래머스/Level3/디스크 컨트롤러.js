@@ -1,4 +1,4 @@
-// https://programmers.co.kr/learn/courses/30/lessons/42627칟
+// https://programmers.co.kr/learn/courses/30/lessons/42627
 
 const solution = (jobs) => {
   let answer = 0,
