@@ -15,7 +15,7 @@ const combinations = (arr, n) => {
 
 const solution = (numbers) => {
 	const numberSet = new Set();
-	const sumArr = combinations(numbers, 2)
+	combinations(numbers, 2)
 		.map((arr) => arr.reduce((prev, cur) => prev + cur, 0))
 		.forEach((s) => numberSet.add(s));
 	const answer = [];
