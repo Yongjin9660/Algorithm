@@ -1,4 +1,4 @@
-// https://programmers.co.kr/learn/courses/30/lessons/42586
+// https://programmers.co.kr/learn/course/30/lessons/42586
 
 const solution = (p, s) => {
 	const days = [];
